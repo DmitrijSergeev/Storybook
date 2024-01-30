@@ -1,0 +1,26 @@
+.primary {
+  background-color: cornflowerblue;
+  border-color: #213547;
+  color: #fff;
+  border-radius: 10%;
+}
+.secondary {
+  background-color: #2e9279;
+  border-color: #213547;
+  color: #fff;
+  border-radius: 10%;
+}
+.outlined {
+  background-color: transparent;
+  border-color: #213547;
+  border-radius: 10%;
+}
+.text {
+  background-color: transparent;
+  border-color: transparent;
+  border-radius: 10%;
+}
+.fullWidth {
+  box-sizing: border-box;
+  width: 100%;
+}
